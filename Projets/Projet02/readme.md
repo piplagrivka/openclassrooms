@@ -14,8 +14,17 @@ Choisissez les bons graphiques pour synthétiser votre analyse des ventes et gé
 
 ## Outils:
 
- Excel Power Query
+ - Excel Power Query
 
 ## Livrables:
 
 ![1](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet02/images/1.jpg)
+
+![2](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet02/images/2.jpg)
+
+![3](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet02/images/3.jpg)
+
+![4](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet02/images/4.jpg)
+
+![5](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet02/images/5.jpg)
+
