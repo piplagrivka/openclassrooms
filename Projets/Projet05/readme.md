@@ -20,11 +20,12 @@ Les données de cette entreprise sont mal organisées. Faites cohabiter les diff
 
 Google colab notebook: [analyse de données de la boutique en ligne](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet05/Gerasimova_Anna_notebook_2_corrig%C3%A9_projet05_19022023.ipynb)
 
-Sujets travaillés:
+**Sujets abordés:**
 1.  rapprocher 2 tableaux (ERP et CRM)
 2.  trouver le chiffre d’affaires par produit et le total du chiffre d’affaires réalisé en ligne
 3.  analyser la variable "prix"
 
+**Examples de réalisations:**
 ![1](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet05/images/1-1.jpg)
 
 ![2](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet05/images/2-1.jpg)
