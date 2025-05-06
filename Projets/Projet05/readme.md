@@ -25,8 +25,8 @@ Sujets travaillés:
 2.  trouver le chiffre d’affaires par produit et le total du chiffre d’affaires réalisé en ligne
 3.  analyser la variable "prix"
 
-![1](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet05/images/1.jpg)
+![1](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet05/images/1-1.jpg)
 
-![2](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet05/images/2.jpg)
+![2](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet05/images/2-1.jpg)
 
-![3](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet05/images/3.jpg)
+![3](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet05/images/3-1.jpg)
