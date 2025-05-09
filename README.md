@@ -2,7 +2,7 @@
 
 # Data analyst
 
-Ce dépôt contient des projets réalisés dans le cadre de ma formation de [Data analyst](https://openclassrooms.com/fr/paths/324-data-analyst) chez Openclassrooms (en partenariat avec ENSAE/ENSAI) dans le 2022-2023. Il s’agit de projets professionnalisants couvrant l’ensemble du cycle de vie de la donnée : de la préparation, du stockage et de l’analyse jusqu’à la gestion, l’optimisation et la modélisation. Conception de workflows automatisés, création de tableaux de bord dynamiques et construction de modèles prédictifs orientés business.
+Ce dépôt contient des projets réalisés dans le cadre de ma formation de [Data analyst](https://openclassrooms.com/fr/paths/324-data-analyst) chez Openclassrooms en partenariat avec ENSAE (école d'ingénieurs spécialisée en statistiques et en Data Science) dans le 2022-2023. Il s’agit de projets professionnalisants couvrant l’ensemble du cycle de vie de la donnée : de la préparation, du stockage et de l’analyse jusqu’à la gestion, l’optimisation et la modélisation. Conception de workflows automatisés, création de tableaux de bord dynamiques et construction de modèles prédictifs orientés business.
 
 ## Projets:
 
