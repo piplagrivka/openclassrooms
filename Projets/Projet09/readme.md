@@ -39,9 +39,9 @@ Phyton, librairies: pandas, os, numpy, matplotlib.pyplot, seaborn, scipy.cluster
 
 ## Quelques réalisations:
 
-![2](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet09/images/2.jpg)
+![2](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet09/images/2-1.jpg)
 
-![3](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet09/images/3.jpg)
+![3](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet09/images/3-2.jpg)
 
 ![4](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet09/images/4.jpg)
 
