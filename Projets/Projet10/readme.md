@@ -34,5 +34,5 @@ Python, librairies: pandas, os, numpy, seaborn, matplotlib.pyplot, matplotlib.li
 
 ![6](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet10/images/6.jpg)
 
-
+![7](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet10/images/7.jpg)
 
