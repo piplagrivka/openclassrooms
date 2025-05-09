@@ -2,7 +2,9 @@
 
 # Faites une étude sur l'eau potable
 
-Créez des dashboards sur Tableau ou Power BI pour visualiser des données sur le thème de l'accès à l'eau potable dans le monde pour une ONG. 
+Créez des dashboards sur Tableau ou Power BI pour visualiser des données sur le thème de l'accès à l'eau potable dans le monde pour une ONG DWFA (Drinking Water For All) . 
+
+![6](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet08/images/6.jpg)
 
 ## Compétences cibles:
  - Analyser un besoin client pour formuler des questions analytiques
@@ -22,15 +24,13 @@ Créez des dashboards sur Tableau ou Power BI pour visualiser des données sur l
 3.  Une présentation de projet : [présentation](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet08/Gerasimova_Anna_projet8_presentation_corrig%C3%A9.pdf)
 4.  Dashboard PowerBI:   [dashboard](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet08/Gerasimova_Anna_projet8.pbix)
 
-**Blueprint:** 
+Blueprint: 
 ![1](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet08/images/1.jpg)
 
 
-**Mockup:**
+Mockup: ![2](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet08/images/2.jpg)
 
-![2](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet08/images/2.jpg)
-
-**Dashboard:**  
+Dashboard:  
 ![3](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet08/images/3.jpg)
 
 ![4](https://github.com/piplagrivka/openclassrooms/blob/main/Projets/Projet08/images/4.jpg)
